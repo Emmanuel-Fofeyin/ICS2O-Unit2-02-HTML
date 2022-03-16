@@ -1,7 +1,7 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2022 Emmanuel Fofeyin All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Emmanuel.Fofeyin-Ngwamunwi
+// Created on: Sep 2022
 // This file contains the JS functions for index.html
 
 /**
